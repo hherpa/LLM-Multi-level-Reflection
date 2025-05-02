@@ -2,7 +2,7 @@
 
 This is a research proposal for a new approach to implementing reflective capabilities in LLM agents.
 
-![Gradio](https://github.com/user-attachments/assets/13a75580-61ff-4786-a2b8-6018d4d8d944)
+https://github.com/user-attachments/assets/44cb40dd-ec49-4472-b0ac-2905d8d835db
 
 ## Project Goals
 
