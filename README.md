@@ -1,5 +1,8 @@
 # 🤔 ReAgent
+
 This is a research proposal for a new approach to implementing reflective capabilities in LLM agents.
+
+![Gradio](https://github.com/user-attachments/assets/13a75580-61ff-4786-a2b8-6018d4d8d944)
 
 ## Project Goals
 
