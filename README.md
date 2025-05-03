@@ -7,6 +7,27 @@
 
 https://github.com/user-attachments/assets/7a458b37-7637-4955-b7fc-c95b72755c4d
 
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/hherpa/ReAgent.git
+cd ReAgent
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### Running the Application
+
+To start the web interface, run:
+```bash
+python gradio_app.py
+```
+
+The application will be available at http://localhost:7860
+
 ## Project Goals
 
 - Creation of a database of reflective judgments for training
