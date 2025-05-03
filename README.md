@@ -1,7 +1,9 @@
-# 🤔 ReAgent
+<h1 align="center">🤔 ReAgent</h1>
 
 > [!NOTE]
 > This is a research proposal for a new approach to implementing reflective capabilities in LLM agents.
+
+## Demo
 
 https://github.com/user-attachments/assets/7a458b37-7637-4955-b7fc-c95b72755c4d
 
